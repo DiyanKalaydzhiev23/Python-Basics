@@ -13,3 +13,7 @@
 - [Advanced If Statements](https://forms.gle/CWRK9h1hgN8REhMJ7)
 
 ---
+
+- [For Loops](https://forms.gle/ntbNTHEjQ4UcRE8j6)
+
+---
